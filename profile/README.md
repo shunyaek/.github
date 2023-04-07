@@ -1,6 +1,24 @@
-```
-Hello, world!
-```
+<html lang="en">
+<body>
+  <main>
+    <article class="halfwidthpane">
+      <section class="logo">
+        <img src="./logo.svg" alt="shunyaek Logo"></img>
+      </section>
+      <section class="contact">
+        <a target='_blank' href="https://wa.me/message/HDI26CHRSLLUP1">
+          <div>💬</div>
+          +91 781 888 8887
+        </a>
+        <a target='_blank' href="mailto:hi@shunyaek.se">
+          <div>✉️</div>
+          hi@shunyaek.se
+        </a>
+      </section>
+    </article>
+  </main>
+</body>
+</html>
 
 <!--
 
